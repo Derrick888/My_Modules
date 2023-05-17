@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Modules</string>
+    <string name="module1">C346 Android Programming</string>
+    <string name="module2">C206 Software Development Process</string>
+    <string name="module3">C203 Web Appln Development in php</string>
+    <string name="module4">C218 UI/UX Design for Apps</string>
+    <string name="module5">C110 Programming Fundamentals I</string>
+    <string name="module6">G953 Life Skills III</string>
+
+</resources>
